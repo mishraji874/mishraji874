@@ -1,4 +1,4 @@
-<a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5616AQHXxU7RDv_mdQ/profile-displaybackgroundimage-shrink_350_1400/0/1684222520417?e=1689811200&v=beta&t=3PRsrkhhT1kGzpbcZH23762vTUXnvCCDbYT4G5tSahk" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5616AQHXxU7RDv_mdQ/profile-displaybackgroundimage-shrink_350_1400/0/1684222520417?e=1689811200&v=beta&t=3PRsrkhhT1kGzpbcZH23762vTUXnvCCDbYT4G5tSahk" height="300" width="300" /></a>
 # 💫 About Me:
 Hi 👋, I'm Aditya Mishra<br><br>A Web developer and Blockchain developer doing the transition from Web 2.0 to Web 3.0 development.<br><br>🔭 I'm currently working on Web Development.<br>👯 I'm looking to collaborate on Web Development and Blockchain Projects.<br>🧑‍💻 All of my projects are available on https://github.com/mishraji874<br>🌱 I'm currently learning Blockchain and Metaverse.<br>📫 How to reach me adityam874@gmail.com<br>💭 Ask me about Blockchain.<br>⚡ Fun fact I've a good sense of humour.<br>
 
