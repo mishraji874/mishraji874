@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Blockchain**
 
-- 📫 How to reach me **adityam874@gmail.com**
+- 📫 How to reach me **jobs.adityamsr@gmail.com**
 
 - ⚡ Fun fact **I've a good sense of humour**
 
